@@ -2,6 +2,9 @@
 
 Project in Machine Learning course in college.
 
+Dataset used :
+- CUHK03: http://www.ee.cuhk.edu.hk/~xgwang/CUHK_identification.html
+
 Papers used:
 - PersonNet: Person Re-identification with Deep Convolutional Neural Networks: 
   - https://arxiv.org/pdf/1601.07255.pdf
